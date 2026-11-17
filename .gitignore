@@ -15,5 +15,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Excecao: permitir templates visuais na pasta scripts se houver
+# Excecao: permitir templates visuais na pasta scripts e templates oficiais
 !scripts/*.png
+!templates/*.docx

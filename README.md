@@ -18,9 +18,11 @@ Um repositório estruturado para transformar qualquer Agente de IA (Antigravity,
 * **`gerar_abnt_docx.py`:** Cria arquivos `.docx` do Word já formatados com papel A4, margens 3-3-2-2 cm, fonte Arial 12, espaçamento 1,5, recuo 1,25 cm, paginação superior direita a partir da página 2 e referências alinhadas à esquerda.
 * **`gerar_slides_clean.py`:** Cria apresentações `.pptx` em 16:9 com design limpo e legível para seminários e bancas.
 
-### 3. Guias Práticos de Estudo e Metodologia (`guias/`)
+### 3. Guias Práticos e Regras da UniFSP (`guias/` e `templates/`)
 * **`01_Guia_Uso_IA_Sem_Alucinar_no_Direito.md`:** Explica de forma intuitiva como os LLMs funcionam, por que inventam jurisprudência e como aplicar a fórmula dos 4 pilares no prompt + ambiente fechado (NotebookLM/RAG).
 * **`02_Mapa_Estrategico_5o_Semestre_e_OAB.md`:** Trilha estratégica para quem está saindo do 4º semestre e entrando no 5º (3º ano), integrando matérias processuais, estágio, pré-OAB e ideias de TCC.
+* **`03_Guia_Funcionamento_Direito_UniFSP.md`:** Tudo sobre como a UniFSP funciona na prática (Portal, Classroom, regra das 400h de Extensão com duplo protocolo, NPJ 300h, adaptações em almaço, critérios de nota do TCC e documentos de secretaria).
+* **`templates/CAPA_OFICIAL_UNIFSP_MODELO.docx`:** Capa oficial com o brasão da UniFSP já pronta para preencher.
 
 ### 4. Arquitetura de Segundo Cérebro
 * **`00-ENTRADA.md`, `01-REGRAS.md`, `02-PROTOCOLO.md`:** Base de memória persistente para o agente nunca perder o contexto das suas provas e trabalhos.
