@@ -33,8 +33,8 @@ Um repositório estruturado para transformar qualquer Agente de IA (Antigravity,
 
 ### Passo 1: Clonar o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/direito-os-kit-academico.git
-cd direito-os-kit-academico
+git clone https://github.com/Cauchioli/Facul-dade.git
+cd Facul-dade
 ```
 
 ### Passo 2: Instalar as dependências Python (opcional, para gerar Word e Slides)
