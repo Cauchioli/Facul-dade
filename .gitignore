@@ -1,0 +1,19 @@
+# Arquivos sensiveis e dados pessoais (NUNCA subir para o GitHub)
+*.pdf
+*.docx
+*.doc
+*.xlsx
+*.jpeg
+*.jpg
+*.png
+.env
+dados-sensiveis/
+clientes/
+comprovantes/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Excecao: permitir templates visuais na pasta scripts se houver
+!scripts/*.png
